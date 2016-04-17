@@ -1,0 +1,10 @@
+
+{
+  "name": "n^3_walls",
+  "version": "0.0.9",
+  "title": "Walls (N^3)",
+  "author": "AenAllAin",
+  "homepage": "none",
+  "description": "More advanced walls (concrete, plastic, powered, electric, barbed-wire, razor-wire, composite).",
+  "dependencies": ["base >= 0.12.11"]
+}
